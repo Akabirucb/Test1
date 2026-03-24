@@ -13,3 +13,7 @@ just exploring still.
 So smooth
 
 Alright let's try something else
+
+## Local development
+
+1. open index.html.
